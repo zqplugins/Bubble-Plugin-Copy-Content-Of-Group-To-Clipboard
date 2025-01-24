@@ -1,0 +1,15 @@
+{
+    "category": "plugins",
+    "display": "Copy Group Content To Clipboard (Styling Included)",
+    "fields": {
+        "AAE": {
+            "caption": "Element ID",
+            "doc": "The ID of the Bubble group you want to copy its content from. To set the ID for an element, you will have to enable 'Expose the option to add an ID attribute to HTML elements' inside Settings -> general (under general appearance)",
+            "editor": "DynamicValue",
+            "name": "element_id",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}
